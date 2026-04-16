@@ -1,6 +1,6 @@
 # Laboratorio-2-FreeRTOS
 
-##Respuestas a las preguntas
+#Respuestas a las preguntas
 1. Se crea la misma tarea con xTaskCreate(), pero enviando un parámetro distinto en el argumento   pvParameters. Dentro de la función de tarea, ese parámetro se recibe como void * y se convierte al tipo necesario mediante casting.
   Ejemplo:
   xTaskCreate(taskReadSensor, "T1", 2048, &readParams1, 1, NULL);
