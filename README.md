@@ -3,6 +3,10 @@
 Diagrama General
 <img width="2600" height="613" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/1f077cfa-aafa-42b9-ab30-78a897dc0fb8" />
 
+Diagrama si lo usaramos en nuestro proyecto
+<img width="4253" height="558" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/353591ff-84a3-4ace-b487-828ceb14c524" />
+
+
 
 
 #Respuestas a las preguntas
