@@ -1,5 +1,7 @@
 # Laboratorio-2-FreeRTOS
 
+<img width="681" height="425" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/0f2fcda8-5797-4fa8-9a32-5fa38f3ad58a" />
+
 #Respuestas a las preguntas
 1. Se crea la misma tarea con xTaskCreate(), pero enviando un parámetro distinto en el argumento   pvParameters. Dentro de la función de tarea, ese parámetro se recibe como void * y se convierte al tipo necesario mediante casting.
   Ejemplo:
