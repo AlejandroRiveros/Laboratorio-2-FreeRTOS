@@ -1,4 +1,5 @@
 # Laboratorio-2-FreeRTOS
+Por: Alejandro Riveros, Camilo Torres y Martin Ortega
 
 Diagrama General
 <img width="2600" height="613" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/1f077cfa-aafa-42b9-ab30-78a897dc0fb8" />
